@@ -1,0 +1,6 @@
+
+@media all and (max-width: 450px){
+	[class*="col-"]{
+		width: 100%;   /* mantiene la uniformidad de la visualización en la web (agrandando o disminuyendo la pantalla) */
+	}
+}
